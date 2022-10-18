@@ -4,12 +4,18 @@
 
 header {
   background-color: rgb(198, 174, 221);
+  margin: 0 auto;
+  padding: 1rem;
+}
+header.highlighted {
+  background-color: rgb(136, 255, 140);
 }
 
 .user, .movie {
   background-color: aquamarine;
   border: 1px solid;
   margin: 1rem auto;
+  padding: 0.5rem;
 }
 
 .movie {

@@ -80,7 +80,7 @@ function App() {
 
 
       <div>
-        <ReactPlayer url="https://vimeo.com/channels/top/22439234" playing controls={false} />
+        <ReactPlayer url="https://vimeo.com/channels/top/22439234" playing={false} controls={false} />
       </div>
 
 
